@@ -1,7 +1,7 @@
 :root{
- --cor-de-fundo: #EBECEE;
- --azul:#0059ff;
- --preto:#000000;
+    --cor-de-fundo: #EBECEE;
+    --azul:#0059ff;
+    --preto:#000000;
 }
 body{
     background-color: var(--azul);
